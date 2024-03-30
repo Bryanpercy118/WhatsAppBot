@@ -24,6 +24,9 @@ Este es un repositorio que contiene un chatbot implementado en Node.js que utili
     ```bash
     npm start
     ```
+    ```bash
+    npm run dev
+    ```
 
 5. ¡Listo! Tu bot de WhatsApp debería estar en funcionamiento y listo para recibir mensajes.
 
